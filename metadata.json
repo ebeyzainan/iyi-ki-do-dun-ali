@@ -1,0 +1,6 @@
+{
+  "name": "İyi ki Doğdun Samet",
+  "description": "Samet'in doğum günü için hazırlanmış romantik mektup, interaktif Polaroid anılar galerisi ve dilek mumu sürprizi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
